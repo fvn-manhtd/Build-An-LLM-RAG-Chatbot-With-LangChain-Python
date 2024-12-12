@@ -2,6 +2,8 @@
 
 ## RAG PIPELINE
 
+![1710748558987](https://github.com/user-attachments/assets/08edaef9-b669-4bf5-bff2-c7a91658e664)
+
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D22AQHhEYuJKGao6A/feedshare-shrink_800/feedshare-shrink_800/0/1710748558987?e=1736985600&v=beta&t=Gah8lk66903vDYa0-CZz31IOoSPf80fNfz-JJLUHM8c" alt="rag" width="400"/>
 </p>
